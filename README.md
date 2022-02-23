@@ -21,5 +21,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/NgjXwYTlZrAJNbH1EE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+- User sees app icon and styled launch screen, User can log in, User can view tweets with profile picture, username and tweet text
+<img src='https://media.giphy.com/media/Gqwrlvomb7KcQb1VqX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+- User stays logged in across restarts, User can log out, Logged out user stays logged out across restarts
+<img src='https://media.giphy.com/media/bR5l9VLXW1RM5HhfrB/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
