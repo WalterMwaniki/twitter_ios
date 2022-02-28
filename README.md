@@ -20,6 +20,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/YnXoLnyNPx5lrlRUXO/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://media.giphy.com/media/mpcFVxT0K7NfJkUsJi/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 # Twitter - Part I
 
